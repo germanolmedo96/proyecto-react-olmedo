@@ -1,0 +1,21 @@
+.item{
+    border:solid 1px #000;
+    border-radius: 20px;
+    margin: 50px;
+    padding:9px;
+}
+img {
+    width:10rem;
+}
+.i-product{
+    margin:0px auto;
+}
+h2{
+    width:400px;
+}
+button{
+    border-radius: 15px;
+}
+.card{
+    justify-content: space-around;
+}

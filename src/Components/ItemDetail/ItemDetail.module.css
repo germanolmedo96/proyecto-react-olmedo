@@ -1,0 +1,44 @@
+.detail{
+}
+.detail h1{
+    padding-bottom:30px;
+    font-size:50px;
+    /* padding:10px; */
+}
+
+.detail img{
+    width:30%;
+    /* flex:right; */
+    position: relative;
+    left: 200px;
+    top: 60px;
+    
+}
+
+.border{
+    border:1px solid #000;
+    width:600px;
+    height:auto;
+    margin: 0px auto;
+    border-radius:14px;
+}
+.detail h3{
+    padding: 20px;
+    font-size:30px;
+    display:flex;
+    flex-wrap: column;
+    bottom: 150px;
+    position: relative;
+    /* left:500px; */
+}
+
+.back img{
+    /* height:10%; */
+    width: 3%;
+    z-index: 1;
+}
+.back{
+    position: relative;
+    bottom:115px;
+    left: 70px;
+}

@@ -1,0 +1,12 @@
+.cart{
+    padding:10px;
+    position: relative;
+    /* bottom:120px; */
+}
+
+.subcart{
+    /* border-top:1px solid #000; */
+    width:350px;
+    margin: 0px auto;
+
+}
